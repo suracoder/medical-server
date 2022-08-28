@@ -1,0 +1,31 @@
+{
+  "name": "medical_equipment_import_export",
+  "version": "1.0.0",
+  "description": "the backend of the site",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Kayowak melese",
+  "license": "ISC",
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3",
+    "sequelize": "^6.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayowakmelese/medical_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kayowakmelese/medical_backend/issues"
+  },
+  "homepage": "https://github.com/kayowakmelese/medical_backend#readme"
+}

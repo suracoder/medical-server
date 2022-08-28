@@ -1,0 +1,34 @@
+ 
+
+
+{
+    "development": {
+      "username": "postgres",
+      "password": "!QAZ",
+      "database": "medical_site",
+      "host": "127.0.0.1",
+      "dialect": "postgres",
+      "operatorsAliases": false
+   
+    },
+    "test": {
+      "username": "postgres",
+      "password": "",
+      "database": "BusDb",
+      "host": "127.0.0.1",
+      "dialect": "postgres",
+      "operatorsAliases": false
+    },
+    "production": {
+      "username": "postgres",
+      "password": "",
+      "database": "BusDb",
+      "host": "127.0.0.1",
+      "dialect": "postgres",
+      "operatorsAliases": false
+    }
+  }
+  
+  
+  
+  
